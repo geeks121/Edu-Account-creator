@@ -1,8 +1,20 @@
 # Edu Account creator
 
+## I dont maintain the project anymore! Im planning to release a version WITHOUT selenium and requests only soon, so it will get way faster!
+
 ## How to use?
 1. Install Firefox (https://www.mozilla.org/en-US/firefox/new/)
-2. Download Geckodriver (https://github.com/mozilla/geckodriver/releases)
+2. Install Python and pip (https://docs.python-guide.org/starting/installation/#installation-guides and https://pip.pypa.io/en/stable/installing/#upgrading-pip)
+3. Install selenium
+   ```bash
+   pip install selenium
+   ```
+4. Run Edu Bot.py using python
+   ```bash
+   python "Edu Bot.py"
+   or py "Edu Bot.py"
+   or python3 "Edu Bot.py"
+   ```
 
 ## Why should i need it?
 
